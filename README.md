@@ -2,7 +2,7 @@
 
 - [ ] Create database schema
 - [ ] Create inital page layout
-- [ ] Add Authentication (Clerk)
+- [ ] Add Authentication (NextAuth)
 - [ ] Fully setup database (Turso)
 - [ ] Attach database to UI
 - [ ] Copy links to clipboard
